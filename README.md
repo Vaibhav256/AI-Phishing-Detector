@@ -1,6 +1,9 @@
 # 🛡️ AI-Powered Phishing Detection
 
-A Streamlit-based application that detects phishing **emails** and **URLs** using:
+🚀 Built by Team Adhiyant 
+🎉 Selected for the **HackIITK Finals 2024**
+
+An AI-powered system that detects phishing **emails** & **URLs** using NLP and ML, with an interactive Streamlit dashboard.
 - **BERT-based NLP model** (for email text classification)
 - **RandomForest-based URL classifier** (with handcrafted lexical features)
 - **Threat Intelligence Simulator** (with mock or API-driven feeds)

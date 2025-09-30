@@ -1,7 +1,7 @@
 # 🛡️ AI-Powered Phishing Detection
 
-🚀 Built by Team Adhiyant 
-🎉 Selected for the **HackIITK Finals 2024**
+🚀 Built by Team Adhiyant  
+🎉 Selected for the **HackIITK Finals 2025**
 
 An AI-powered system that detects phishing **emails** & **URLs** using NLP and ML, with an interactive Streamlit dashboard.
 - **BERT-based NLP model** (for email text classification)
